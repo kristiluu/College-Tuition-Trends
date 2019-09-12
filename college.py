@@ -1,4 +1,4 @@
-# College class for lab2.py
+# College class 
 import numpy as np
 import matplotlib.pyplot as plt
 
