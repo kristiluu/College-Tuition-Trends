@@ -103,39 +103,3 @@ def main():
     app = MainWin()
     app.mainloop()
 main()
-
-'''
-The most effective way to earn a 4-year degree is to attend a 2-year community 
-college and transfer to a 4-year public university. This is the most 
-cost-efficient because you will spending least going to a 2-year community college, 
-and between a private and public university, public universities are immensely more affordable. 
-
-Ranking of least costly to most costly: 
-1. 2-year + Transfer to 4-year public for 2 years
-2. Public 4-year for all 4 years
-3. 2-year + Transfer to a 4-year private for 2 years
-4. Private 4-year for all 4 years
-
-==2018==
-Private 4-Year    Public 4-Year     2-Year + 2-Year Private 4-year     2-Year + 2-Year Public 4-year                                    
-$138040.0         $40040.0          $74360.0                           $26760.0                           
-==2010==
-Private 4-Year    Public 4-Year     2-Year + 2-Year Private 4-year     2-Year + 2-Year Public 4-year                                    
-$114520.0         $30500.0          $61540.0                           $20250.0 
-==2006==
-Private 4-Year    Public 4-Year     2-Year + 2-Year Private 4-year     2-Year + 2-Year Public 4-year                                    
-$104980.0         $26020.0          $56200.0                           $17070.0    
-==1975==
-Private 4-Year    Public 4-Year     2-Year + 2-Year Private 4-year     2-Year + 2-Year Public 4-year                                    
-$45590.0          $11170.0          $25620.0                           $8230.0    
-
-Based on the data, in the recent decade, the prices have been consistently low for 
-the community college to a 4-year public university route. 
-A private 4-year has always been the most expensive route and 
-thus, for any future decisions, it can easily be predicted that future students
-will encounter the same price range pattern. 
-
-The reason why I chose the years is to present the recent decade (for relativity) 
-and the oldest year in the data set to show that the pattern remains the same
-even in old times.
-'''
