@@ -12,3 +12,8 @@ view the tuition trend, the room and board trend, and the total cost of 4 years 
 - Data Analysis
 - Data Visualization
 - GUI
+
+### Authors
+---
+- Kristi Luu
+- Amir Alaj
